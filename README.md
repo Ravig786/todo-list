@@ -1,7 +1,7 @@
 # todo-list
-clone this repo \n
-npm i \n
-npm run dev \n
-Open client app in different terminal \n
-npm i \n
-npm start \n
+clone this repo
+npm i 
+npm run dev 
+Open client app in different terminal
+npm i 
+npm start 
