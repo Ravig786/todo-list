@@ -1,8 +1,12 @@
 # todo-list
 <br />
-clone this repo
+<ul>
+    <li>clone this repo</li>
+    <li>npm i</li>
+</ul>
+
 <br />
-npm i 
+ 
 <br />
 npm run dev 
 <br />
