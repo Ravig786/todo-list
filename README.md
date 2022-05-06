@@ -6,7 +6,7 @@ npm i
 <br />
 npm run dev 
 <br />
-Open frontend folder in different terminal
+cd frontend
 <br />
 npm i 
 <br />
