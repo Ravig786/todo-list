@@ -1,0 +1,33 @@
+.defaultlayout{
+    padding: 20px 50px;
+}
+
+.header{
+    height:10%;
+    background-color:black;
+    border-radius:5px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px 20px;
+    
+}
+.header h1{
+    color:white;
+    font-size: 22px;
+}
+
+.header button{
+    color:white;
+    border:1px solid white !important;
+}
+
+.content{
+    margin: 10px 10px;
+    height:80%;
+    border:2px solid gray;
+    border-radius:5px;
+    box-shadow: 0 0 3px gray;
+    padding:10px;
+}
+
